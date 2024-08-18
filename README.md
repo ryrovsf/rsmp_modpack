@@ -1,4 +1,4 @@
-## RSMP 1.0.0
+<center>## RSMP 1.0.0</center>
 <hr>
 **PATCH NOTES:**<br> 
 
