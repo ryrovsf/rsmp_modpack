@@ -1,5 +1,5 @@
-RSMP
-1.0.0
-Patch notes:
-[+] Novo launcher
-[-] Ice and Fire removed
+# RSMP 1.0.0
+**PATCH NOTES:**
+
+[**+**] Novo Launcher
+[**-**] Mod Ice And Fire removido.
